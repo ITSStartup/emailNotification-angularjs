@@ -1,0 +1,14 @@
+
+
+<h4>Email Notification with AngularJS + JavaMail with Gmail</h4>
+<form name="emailform">
+<label>E-mail:</label>
+<div>
+<input type="email" required ng-model="emailService.email">
+</div>
+
+<div>
+<button type="submit" class="btn btn-success" ng-click="send()" ng-disabled="emailform.$invalid">Reset Password</button>
+</div>
+
+</form>
