@@ -1,4 +1,1 @@
-emailNotification
-=================
-
-Email Notification WebApps with AngularJS + JavaMail with Gmail
+###Email Notification WebApps with AngularJS + JavaMail with Gmail 
